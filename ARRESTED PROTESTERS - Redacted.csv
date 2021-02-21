@@ -1,0 +1,452 @@
+﻿Arrestee,Home City ,Home State ,Offense Date ,Arrest Date ,Code ,Case Type ,Class ,Charge ,Next Hearing Date ,Final Status 
+A1,Richmond ,VA ,8/16/20,8/17/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,4/19/21,OPEN 
+A1,Richmond ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,4/19/21,OPEN 
+A1,Richmond ,VA ,8/16/20,8/17/20,18.2-460(E) ,Misdemeanor ,1,Fleeing from Law Enforcement ,4/19/21,OPEN 
+A1,Richmond ,VA ,8/16/20,8/17/20,33.2-802 ,Misdemeanor ,,Hwy/Private Property: Dump Trash ,4/19/21,OPEN 
+A1,Richmond ,VA ,8/16/20,8/17/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,4/19/21,OPEN 
+A2,Richmond ,VA ,7/1/20,7/1/20,18.2-57 ,Felony ,6,Assault & Batter on Law Enf ,2/1/21,OPEN 
+A2,Richmond ,VA ,7/1/20,7/1/20,18.2-57 ,Felony ,6,Assault & Batter on Law Enf ,2/1/21,OPEN 
+A2,Richmond ,VA ,7/1/20,7/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/ Force ,2/1/21,OPEN 
+A2,Richmond ,VA ,7/1/20,7/1/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,2/1/21,OPEN 
+A2,Richmond ,VA ,7/1/20,7/1/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,CERTIFIED TO GRAND JURY 
+A2,Richmond ,VA ,7/1/20,7/1/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,CERTIFIED TO GRAND JURY 
+A2,Richmond ,VA ,7/1/20,7/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist: Threat/Force ,,GUILTY/APPEALED 
+A2,Richmond ,VA ,7/1/20,7/1/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,GUILTY/APPEALED 
+A3,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,3/12/21,OPEN 
+A4,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+A5,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+A6,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY 
+A6,Henrico ,VA ,5/30/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+A8,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+A9,Richmond ,VA ,6/26/20,6/27/20,18.2-406 ,Misdemeanor ,1,Participate Unlawful Assembly ,11/10/21,OPEN 
+A9,Richmond ,VA ,6/26/20,6/27/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly; Participate ,,GUILTY/APPEALED 
+A10,Williamsburg ,VA ,7/27/20,7/27/20,18.2-405 ,Misdemeanor ,1,Riot: Participate ,2/24/21,OPEN 
+A11,Alexandria ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+A12,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+A13,Alexandria ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,2/23/21,OPEN 
+A14,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY 
+B1,Henrico ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,2/23/21,OPEN 
+B2,Maidens ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Disrupt Tranquility of Home ,,NOLLE PROSEQUI 
+B3,Richmond ,VA ,12/11/20,,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,4/19/21,OPEN 
+B4,Richmond ,VA ,11/5/20,11/6/20,18.2-154 ,Felony ,4,Malic Shoot/Thrw at Train/Car ,,NOLLE PROSEQUI 
+B4,Richmond ,VA ,11/5/20,11/6/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,,GUILTY 
+B4,Richmond ,VA ,11/5/20,11/6/20,18.2-408 ,Felony ,5,Conspire to Incite Riot ,,NOLLE PROSEQUI 
+B4,Richmond ,VA ,11/5/20,11/6/20,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >=$1000 ,,GUILTY/REDUCED TO MISDEMEANOR 
+B4,Richmond ,VA ,11/5/20,,46.2-926 ,Infraction ,,Step in Road - Poor Visibility ,,NOLLE PROSEQUI 
+B5,Richmond ,VA ,6/3/20,6/3/20,18.2-77 ,Felony ,,Arson: Dwelling Usual Occupied ,2/19/21,OPEN 
+B6,Henrico ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+B7,Chester ,VA ,5/30/20,,18.2-103 ,Misdemeanor ,,Shoplift ,3/11/21,OPEN 
+B8,Richmond ,VA ,5/31/20,,18.2-108 ,Misdemeanor ,,Rec/Buy Stolen Goods ,2/16/21,FUGITIVE FILE 
+B8,Richmond ,VA ,8/20/20,,18.2-456(6) ,Show Cause ,,SC-FTA ,,DISMISSED 
+B8,Richmond ,VA ,2/16/21,,19.2-128 ,Misdemeanor ,,FTA/Poss -Rec Stolen Goods ,2/16/21,FUGITIVE FILE 
+B9,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+B10,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+B11,Virginia Beach ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,3/19/21,OPEN 
+B12,Richmond ,VA ,6/3/20,,18.2-308 ,Misdemeanor ,,Concealed Weapon: Carry ,,NOLLE PROSEQUI 
+B12,Richmond ,VA ,6/3/20,6/5/20,18.2-282 ,Misdemeanor ,1,Point/Brandish Firearm ,,NOT GUILTY 
+B12,Richmond ,VA ,6/3/20,6/5/20,18.2-57 ,Misdemeanor ,1,Assault & Battery ,,NOT GUILTY 
+B12,Richmond ,VA ,6/3/20,6/5/20,18.2-282 ,Misdemeanor ,1,Point/Brandish Firearm ,,NOT GUILTY 
+B12,Richmond ,VA ,6/3/20,6/5/20,18.2-57 ,Misdemeanor ,1,Assault & Battery ,,NOT GUILTY 
+B13,Midlothian ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,2/26/21,OPEN 
+B14,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+B15,Richmond ,VA ,6/1/20,,18.2-308 ,Misdemeanor ,1,Concealed Weapon: Carry ,,NOLLE PROSEQUI 
+B15,Richmond ,VA ,6/1/20,,18.2-415 ,Misdemeanor ,1,Disorderly Conduct ,,NOLLE PROSEQUI 
+B16,Wilmington ,NC ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,DISMISSED 
+B17,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+B18,Charlottesville ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Disrupt Tranquility of Home ,,NOLLE PROSEQUI 
+B19,Petersburg ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,3/19/21,OPEN 
+B20,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+B21,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+C1,Hopewell ,VA ,6/3/20,6/3/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY 
+C2,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+C3,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,5/7/21,OPEN 
+C4,Henrico ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+C5,Richmond ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+C5,N Chesterfield ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY 
+C6,Chesterfield ,VA ,6/1/20,6/2/20,18.2-92 ,Felony ,2,"Armed B&E Occup House, MISD ",,NOLLE PROSEQUI 
+C6,Chesterfield ,VA ,6/1/20,6/2/20,18.2-92 ,Felony ,2,"Armed B&E Occup House, MISD ",,NOLLE PROSEQUI 
+C6,Chesterfield ,VA ,6/1/20,6/2/20,18.2-282 ,Misdemeanor ,1,Point/Brandish Firearm ,,NOLLE PROSEQUI 
+C6,Chesterfield ,VA ,6/2/20,6/2/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent <$1000 ,,NOLLE PROSEQUI 
+C6,Henrico ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,3/12/21,OPEN 
+C7,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+C8,Richmond ,VA ,10/27/20,10/28/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,NOLLE PROSEQUI 
+C8,Richmond ,VA ,10/27/20,10/28/20,18.2-308 ,Misdemeanor ,1,Concealed Weapon: Carry ,3/12/21,OPEN 
+C8,Richmond ,VA ,10/27/20,10/28/20,46.2-928 ,Infraction ,,Walk in Road-Sidewlk Available ,,GUILTY 
+C9,Richmond ,VA ,7/26/20,7/27/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,DISMISSED 
+C10,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+C11,N Chesterfield ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+C12,Mechanicsville ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+C13,Charlottesville ,VA ,7/26/20,7/27/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,DISMISSED 
+C14,Chesterfield ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+C15,Henrico ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+C16,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+C17,Richmond ,VA ,7/26/20,8/12/20,18.2-137 ,Felony ,6,Destruction of Property w/ Intent ,3/9/21,OPEN 
+C17,Richmond ,VA ,7/26/20,8/12/20,18.2-137 ,Felony ,6,Destruction of Property w/ Intent ,3/9/21,OPEN 
+C17,Richmond ,VA ,7/26/20,8/12/20,18.2-81 ,Misdemeanor ,1,Arson of Personal Property ,3/9/21,OPEN 
+C17,Richmond ,VA ,7/26/20,8/12/20,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >=$1000 ,,CERTIFIED TO GRAND JURY 
+C17,Richmond ,VA ,7/26/20,8/12/20,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >=$1000 ,,CERTIFIED TO GRAND JURY 
+C17,Richmond ,VA ,7/26/20,8/12/20,18.2-408 ,Felony ,5,Conspire to Incite Riot ,,NOLLE PROSEQUI 
+C17,Richmond ,VA ,7/26/20,8/12/20,18.2-408 ,Felony ,5,Conspire to Incite Riot ,,NOLLE PROSEQUI 
+C17,Richmond ,VA ,7/26/20,8/12/20,18.2-408 ,Felony ,5,Conspire to Incite Riot ,,NOLLE PROSEQUI 
+C17,Richmond ,VA ,7/26/20,8/12/20,18.2-81 ,Misdemeanor ,1,Arson: Personal Property <$200 ,,CERTIFIED TO GRAND JURY 
+C18,Petersburg ,VA ,6/1/20,6/2/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+C19,Richmond ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+D1,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,2/25/21,OPEN 
+D2,Richmond ,VA ,6/1/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+D3,Portsmouth ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+D4,Richmond ,VA ,9/1/20,9/1/20,18.2-415 ,Misdemeanor ,1,Disorderly Conduct ,,DISMISSED 
+D4,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+D5,Richmond ,VA ,7/26/20,7/26/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,DISMISSED 
+D6,Richmond ,VA ,8/11/20,8/12/20,18.2-405 ,Misdemeanor ,1,Riot: Participate ,,DISMISSED 
+D7,N Chesterfield ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY 
+D8,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,3/5/21,OPEN 
+D9,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+D10,Prince George ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+D11,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+D12,Petersburg ,VA ,5/29/20,5/29/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,NOLLE PROSEQUI 
+D13,Hopewell ,VA ,6/3/20,6/3/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+D14,Chesterfield ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,5/13/21,OPEN 
+D15,Charlottesville ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,3/30/21,OPEN 
+D16,Glen Allen ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+D17,,,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+D18,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+D19,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOT GUILTY 
+D19,Richmond ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Disrupt Tranquility of Home ,,NOLLE PROSEQUI 
+D20,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY 
+D21,N Chesterfield ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+D22,Mechanicsville ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+D23,Richmond ,VA ,6/21/20,6/22/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,8/5/21,OPEN 
+D24,Richmond ,VA ,5/31/20,,18.2-108 ,Misdemeanor ,,Rec/Buy Stolen Goods ,2/26/21,OPEN 
+D25,Richmond ,VA ,7/27/20,7/27/20,18.2-405 ,Misdemeanor ,1,Riot: Participate ,2/26/21,OPEN 
+F1,Richmond ,VA ,9/1/20,9/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist: Threat/Force ,,DISMISSED 
+F2,Henrico ,VA ,7/27/20,,18.2-287.4 ,Misdemeanor ,,Firearm w/ Extended Mag ,,NOLLE PROSEQUI 
+F2,Henrico ,VA ,7/27/20,,19-334 ,Misdemeanor ,,Transport Loaded Rifle ,,GUILTY 
+F3,Richmond ,VA ,9/27/20,9/28/20,18.2-51 ,Felony ,3,Malicious Wounding ,,NOLLE PROSEQUI 
+F3,Richmond ,VA ,11/8/20,11/8/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,DISMISSED 
+F3,Richmond ,VA ,11/8/20,11/8/20,33.2-802 ,Misdemeanor ,,Hwy/Private Property: Dump Trash ,,DISMISSED 
+F4,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+F5,Virginia Beach ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Disrupt Tranquility of Home ,,NOLLE PROSEQUI 
+F6,Henrico ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+F7,Richmond ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+F8,Richmond ,VA ,6/1/20,6/1/20,18.2-308.2 ,Felony ,,Violent Felon Poss/Tran Weapon ,,NOLLE PROSEQUI 
+F8,Richmond ,VA ,6/1/20,6/1/20,18.2-308.2 ,Felony ,,Violent Felon Poss/Tran Weapon ,,DISMISSED 
+F8,Richmond ,VA ,6/1/20,6/1/20,18.2-287.4 ,Misdemeanor ,1,Carry Load Firearm in Public ,,NOLLE PROSEQUI 
+F9,Richmond ,VA ,5/31/20,5/31/20,18.2-308 ,Misdemeanor ,,Concealed Weapon: Carry ,,NOLLE PROSEQUI 
+F10,Fairfax ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+F11,Chesterfield ,VA ,6/25/20,6/25/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,GUILTY 
+F11,Richmond ,VA ,7/27/20,7/27/20,18.2-405 ,Felony ,5,Particip Riot w/ Dang Weopon ,,NOLLE PROSEQUI 
+F11,Richmond ,VA ,6/28/20,7/27/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,,GUILTY 
+F11,Richmond ,VA ,2/2/21,,19.2-128 ,Misdemeanor ,,FTA/Destroy Property ,,FUGITIVE FILE 
+F12,Richmond ,VA ,7/26/20,,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,TRANSFERRED TO ANOTHER JURIS/COURT 
+F12,Richmond ,VA ,7/26/20,,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,DISMISSED 
+F12,Richmond ,VA ,9/14/20,9/28/20,18.2-404 ,Misdemeanor ,1,Obstrct Free Passage ,,DISMISSED 
+F13,Richmond ,VA ,8/17/20,8/17/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,2/26/21,OPEN 
+F13,Richmond ,VA ,8/17/20,8/17/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,2/26/21,OPEN 
+F14,Forest ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY/APPEALED 
+F15,Chesterfield ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,FUGITIVE FILE 
+F16,Chesapeake ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+F17,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,5/13/21,OPEN 
+F18,Virginia Beach ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY 
+F19,Richmond ,VA ,6/24/20,6/25/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,7/16/21,OPEN 
+F20,Richmond ,VA ,7/27/20,,19.2-128 ,Misdemeanor ,,FTA/Unlawful Assembly ,7/16/21,OPEN 
+G1,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+H1,Richmond ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+H2,Arlington ,VA ,6/4/20,6/4/20,54.1-3466 ,Misdemeanor ,1,Unauth Possession: Drug Para ,3/10/21,OPEN 
+H2,Arlington ,VA ,6/4/20,6/4/20,54.1-3466 ,Misdemeanor ,1,Unauth Possession: Drug Para ,3/10/21,OPEN 
+H2,Arlington ,VA ,7/9/20,,19.2-128 ,Misdemeanor ,,FTA/Poss Paraphernalia ,3/10/21,OPEN 
+H2,Arlington ,VA ,7/9/20,,18.2-456(6) ,Show Cause ,,SC-FTA ,3/10/21,OPEN 
+H3,Mechanicsville ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,5/13/21,OPEN 
+H4,Richmond ,VA ,5/30/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+H5,Richmond ,VA ,9/3/20,9/3/20,18.2-308.2 ,Felony ,6,Felon Poss Wpn/Ammo (Not Gun) ,3/2/21,OPEN 
+H5,Richmond ,VA ,9/2/20,9/3/20,18.2-282 ,Misdemeanor ,1,Point/Brandish Firearm ,2/26/21,OPEN 
+H6,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+H7,Richmond ,VA ,6/14/20,6/15/20,18.2-57 ,Felony ,6,Assault & Batter on Law Enf ,5/27/21,OPEN 
+H7,Richmond ,VA ,6/14/20,6/15/20,18.2-408 ,Felony ,5,Conspire to Incite Riot ,5/27/21,OPEN 
+H7,Richmond ,VA ,6/14/20,6/15/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,CERTIFIED TO GRAND JURY 
+H7,Richmond ,VA ,6/14/20,6/15/20,18.2-408 ,Felony ,5,Conspire to Incite Riot ,,CERTIFIED TO GRAND JURY 
+H8,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+H9,Pembroke ,VA ,6/25/20,,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,NOLLE PROSEQUI 
+H10,Richmond ,VA ,6/3/20,6/3/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOT GUILTY 
+H11,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,3/12/21,OPEN 
+H12,Richmond ,VA ,9/1/20,9/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist: Threat/Force ,,DISMISSED 
+H13,Winston Salem ,NC ,6/25/20,,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,NOLLE PROSEQUI 
+H14,Brodnax ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+H15,Henrico ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+H16,Richmond ,VA ,6/5/20,6/6/20,18.2-57 ,Misdemeanor ,1,Assault & Battery ,,NOLLE PROSEQUI 
+H17,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+H18,Richmond ,VA ,6/6/20,6/8/20,18.2-57 ,Misdemeanor ,1,Assault & Battery ,,NOLLE PROSEQUI 
+H18,Richmond ,VA ,6/6/20,6/6/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,,NOLLE PROSEQUI 
+H18,Petersburg ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+Isom ,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+H19,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+H20,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+H21,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+H22,Richmond ,VA ,7/27/20,,18.2-287.4 ,Misdemeanor ,,Carry Load Rifle-No Permit ,3/2/21,OPEN 
+H22,Richmond ,VA ,11/10/20,,19.2-128 ,Misdemeanor ,,FTA/Carry Loaded Rifle ,3/2/21,OPEN 
+H23,Montpelier ,VA ,5/28/20,6/1/20,18.2-308 ,Misdemeanor ,,Concealed Weapon: Carry ,,GUILTY 
+H23,Montpelier ,VA ,5/28/20,6/1/20,18.2-56.1 ,Misdemeanor ,,Reckless Handling Firearm ,,NOLLE PROSEQUI 
+H24,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+H25,Richmond ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Disrupt Tranquility of Home ,,NOLLE PROSEQUI 
+H26,Mechanicsville ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+H27,Richmond ,VA ,8/20/20,8/20/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,7/12/21,OPEN 
+H27,Richmond ,VA ,8/20/20,8/20/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,7/12/21,OPEN 
+H28,Henrico ,VA ,7/27/20,,19-334 ,Misdemeanor ,,Loaded Rifle in City Limits ,,NOLLE PROSEQUI 
+H29,Chester ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,DISMISSED 
+H30,Hopewell ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+H31,Virginia Beach ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+H32,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+H33,Providence Forge ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,3/18/21,OPEN 
+H34,N Chesterfield ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,5/7/21,OPEN 
+H35,Richmond ,VA ,9/1/20,9/1/20,18.2-415 ,Misdemeanor ,1,Disorderly Conduct ,,DISMISSED 
+H35,Richmond ,VA ,9/1/20,,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >=$1000 ,,DISMISSED 
+H36,Richmond ,VA ,6/21/20,6/21/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,6/11/21,OPEN 
+H37,Richmond ,VA ,6/26/20,6/26/20,18.2-460(E) ,Misdemeanor ,1,Fleeing from Law Enforcement ,3/17/21,OPEN 
+H37,Richmond ,VA ,6/26/20,6/26/20,18.2-119 ,Misdemeanor ,1,Trespass after Forbidden ,3/17/21,OPEN 
+H38,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+H39,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+H40,Richmond ,VA ,7/30/20,7/30/20,18.2-57 ,Felony ,6,Assault on Law Enf Officer ,3/16/21,OPEN 
+H40,Richmond ,VA ,12/1/20,12/1/20,19.2-100 ,Felony ,,"Fugative, Felony w/o Warrant ",3/17/21,OPEN 
+H40,Richmond ,VA ,7/26/20,7/26/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly; Participate ,,NOLLE PROSEQUI 
+H40,Richmond ,VA ,7/30/20,7/30/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,CERTIFIED TO GRAND JURY 
+H40,Richmond ,VA ,7/30/20,7/30/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,DISMISSED 
+H40,Richmond ,VA ,7/30/20,7/30/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,DISMISSED 
+K1,Richmond ,VA ,6/1/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+K2,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+K3,Hopewell ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+K4,Colonial Heights ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+K5,Richmond ,VA ,6/7/20,6/7/20,18.2-250 ,Felony ,5,Drugs: Possess Sch I or II ,3/25/21,OPEN 
+K5,Richmond ,VA ,6/7/20,,18.2-388 ,Misdemeanor ,4,Public Swearing/Intoxication ,3/25/21,OPEN 
+K6,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+K7,Richmond ,VA ,5/31/20,,18.2-460(E) ,Misdemeanor ,1,Fleeing from Law Enforcement ,,DISMISSED 
+K7,Richmond ,VA ,12/14/20,,18.2-456(6) ,Show Cause ,,SC-FTA ,,DISMISSED 
+K7,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+K8,Richmond ,VA ,7/26/20,7/27/20,19.2-82.1 ,Misdemeanor ,1,False Identify Self to Law Enf ,,DISMISSED 
+K8,Richmond ,VA ,7/26/20,,46.2-926 ,Infraction ,,Step in Road - Poor Visibility ,,DISMISSED 
+K9,Richmond ,VA ,6/26/20,6/27/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,NOT GUILTY 
+K9,Richmond ,VA ,6/26/20,6/27/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly; Participate ,,NOT GUILTY 
+K10,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+K11,Henrico ,VA ,3/6/20,6/2/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent <$1000 ,,DISMISSED 
+K11,Henrico ,VA ,6/2/20,6/2/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+K12,Richmond ,VA ,6/1/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY 
+K13,Richmond ,VA ,5/30/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+K14,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY 
+K15,Richmond ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,DISMISSED 
+K16,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,NOLLE PROSEQUI 
+K17,Richmond ,VA ,7/26/20,,18.2-405 ,Felony ,5,Particip Riot w/ Firearm/Weapon ,3/1/21,OPEN 
+K17,Richmond ,VA ,7/26/20,,18.2-405 ,Felony ,5,Particip Riot w/ Dang Weapon ,,CERTIFIED TO GRAND JURY 
+K17,Richmond ,VA ,7/26/20,,18.2-407 ,Misdemeanor ,3,Failing to Disperse in a Riot ,,NOLLE PROSEQUI 
+K17,Richmond ,VA ,6/21/20,,18.2-407 ,Misdemeanor ,3,Failing to Disperse in a Riot ,,NOLLE PROSEQUI 
+K18,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+K19,Chesterfield ,VA ,9/1/20,9/1/20,18.2-415 ,Misdemeanor ,1,Disorderly Conduct ,,DISMISSED 
+K20,Hampton ,VA ,7/25/20,7/26/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly; Participate ,,FUGITIVE FILE 
+K20,Hampton ,VA ,9/29/20,,19.2-128 ,Misdemeanor ,1,FTA/Unlawful Assembly ,,FUGITIVE FILE 
+K21,Henrico ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+K22,Richmond ,VA ,6/25/20,,18.2-119 ,Misdemeanor ,1,Trespass after Forbidden ,,NOLLE PROSEQUI 
+K22,Richmond ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,1,Disrupt Tranquility of Home ,,NOLLE PROSEQUI 
+K23,Richmond ,VA ,7/26/20,7/27/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,NOLLE PROSEQUI 
+K24,Nellysford ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,DISMISSED 
+K25,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+K26,Richmond ,VA ,6/26/20,6/27/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly; Participate ,,DISMISSED 
+K27,Manassas ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+K28,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,FUGITIVE FILE 
+K28,Richmond ,VA ,5/31/20,6/1/20,18.2-56.1 ,Misdemeanor ,1,Firearm: Reckless Handling ,,FUGITIVE FILE 
+K28,Richmond ,VA ,5/31/20,6/1/20,18.2-308 ,Misdemeanor ,1,Concealed Weapon: Carry ,,FUGITIVE FILE 
+K28,Richmond ,VA ,5/31/20,6/1/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent <$1000 ,,FUGITIVE FILE 
+K29,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+K30,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+K31,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+K32,Richmond ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,3/12/21,OPEN 
+K32,Richmond ,VA ,8/16/20,8/17/20,19.2-82.1 ,Misdemeanor ,1,False Identify Self to Law Enf ,3/12/21,OPEN 
+M1,Richmond ,VA ,8/11/20,8/12/20,18.2-405 ,Misdemeanor ,1,Riot: Participate ,3/3/21,OPEN 
+M2,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+M3,Richmond ,VA ,8/20/20,8/20/20,18.2-408 ,Felony ,5,Conspire to Incite Riot ,,DISMISSED 
+M4,Richmond ,VA ,9/1/20,9/1/20,18.2-415 ,Misdemeanor ,1,Disorderly Conduct ,,DISMISSED 
+M4,Richmond ,VA ,9/1/20,9/1/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,,DISMISSED 
+M5,Richmond ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+M6,Richmond ,VA ,9/1/20,9/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist: Threat/Force ,,DISMISSED 
+M7,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+M8,Richmond ,VA ,6/25/20,6/25/20,18.2-57 ,Felony ,6,Asslt: on Law Enf/Doc Person ,,GUILTY/REDUCED TO MISDEMEANOR 
+M9,Bowling Green ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+M10,Charlottesville ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,DISMISSED 
+M11,Waynesboro ,VA ,9/14/20,9/24/20,18.2-404 ,Misdemeanor ,1,Obstrct Free Passage ,3/2/21,OPEN 
+M12,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,4/20/21,OPEN 
+M13,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+M14,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,4/16/21,GUILTY 
+N1,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,6/4/21,OPEN 
+N2,Richmond ,VA ,6/3/20,6/3/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+N3,Richmond ,VA ,8/11/20,8/12/20,18.2-405 ,Misdemeanor ,1,Riot: Participate ,3/19/21,OPEN 
+N4,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+N5,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,3/4/21,OPEN 
+N5,Richmond ,VA ,7/7/20,,18.2-456(6) ,Show Cause ,,SC-Fail to Appear ,,DISMISSED 
+N5,Richmond ,VA ,2/17/21,,18.2-456(6) ,Show Cause ,,SC-FTA ,3/4/21,OPEN 
+N6,N Chesterfield ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+O1,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+O2,Richmond ,VA ,6/21/20,6/22/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,5/7/21,OPEN 
+O3,Richmond ,VA ,6/1/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+O4,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+O5,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+O6,Petersburg ,VA ,6/4/20,6/4/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,FUGITIVE FILE 
+O6,Petersburg ,VA ,6/4/20,6/4/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,,FUGITIVE FILE 
+O7,Richmond ,VA ,6/4/20,6/4/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,,NOLLE PROSEQUI 
+O7,Richmond ,VA ,6/4/20,6/4/20,18.2-388 ,Misdemeanor ,4,Public Swearing/Intoxication ,,NOLLE PROSEQUI 
+O8,Charlottesville ,VA ,9/1/20,9/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,DISMISSED 
+P1,Richmond ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+P2,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,2/26/21,OPEN 
+P3,Chesterfield ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+P4,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY/APPEALED 
+P5,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,3/19/21,OPEN 
+P6,Henrico ,VA ,5/31/20,,18.2-96 ,Misdemeanor ,1,Petit Larceny ,,NOLLE PROSEQUI 
+P7,Henrico ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+P8,Lorton ,VA ,6/21/20,6/22/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,4/15/21,OPEN 
+P8,Lorton ,VA ,6/21/20,,18.2-407 ,Misdemeanor ,3,Failing to Disperse in a Riot ,4/15/21,OPEN 
+P9,Richmond ,VA ,12/11/20,,18.2-138 ,Misdemeanor ,1,Dest of Property/Public Bldg ,,GUILTY 
+P9,Richmond ,VA ,12/15/20,,18.2-137 ,Misdemeanor ,1,Destruct prop w/ Intent < $1000 ,3/5/21,OPEN 
+P9,Richmond ,VA ,10/30/20,2/2/21,19.2-100 ,Felony ,,"Fugative, Felony w/o Warrant ",2/16/21,OPEN 
+P10,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+P11,Powhatan ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+P12,Richmond ,VA ,8/17/20,8/18/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,4/26/21,OPEN 
+P12,Richmond ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,4/26/21,OPEN 
+P12,Richmond ,VA ,7/26/20,7/27/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,4/26/21,OPEN 
+P12,Richmond ,VA ,7/26/20,7/27/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,TRANSFERRED TO ANOTHER JURIS/COURT 
+P12,Richmond ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,TRANSFERRED TO ANOTHER JURIS/COURT 
+P13,Prince George ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+P14,Richmond ,VA ,7/27/20,,18.2-405 ,Felony ,5,Particip Riot w/ Dang Weapon ,,GUILTY/REDUCED TO MISDEMEANOR 
+Q1,Richmond ,VA ,8/11/20,8/12/20,18.2-405 ,Misdemeanor ,1,Riot: Participate ,3/19/21,OPEN 
+Q2,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,6/9/21,OPEN 
+R1,Suffolk ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+R2,Poquoson ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+R3,Petersburg ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+R4,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+R5,Richmond ,VA ,7/26/20,,18.2-407 ,Misdemeanor ,3,Failing to Disperse in a Riot ,,DISMISSED 
+R6,Chesterfield ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+R7,Richmond ,VA ,9/1/20,9/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist: Threat/Force ,,DISMISSED 
+R7,Richmond ,VA ,9/1/20,9/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist: Threat/Force ,,TRANSFERRED TO ANOTHER JURIS/COURT 
+R8,Mechanicsville ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+R9,Sandston ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+R10,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+R11,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+R12,Richmond ,VA ,9/1/20,9/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,DISMISSED 
+R13,Richmond ,VA ,1/29/21,,18.2-57 ,Misdemeanor ,1,Assault & Battery ,2/19/21,OPEN 
+R13,Richmond ,VA ,7/13/20,,102-243 ,Other ,,Ord Viol ,7/7/21,OPEN 
+R13,Richmond ,VA ,7/13/20,,102-243 ,Other ,,Ord Viol ,7/7/21,OPEN 
+R14,Richmond ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Picketing of Dwelling ,,NOLLE PROSEQUI 
+R15,Richmond ,VA ,5/30/20,5/30/20,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >=$1000 ,,GUILTY/REDUCED TO MISDEMEANOR 
+R15,Richmond ,VA ,5/30/20,5/30/20,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >=$1000 ,,NOLLE PROSEQUI 
+R15,Richmond ,VA ,5/30/20,5/30/20,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >=$1000 ,,NOLLE PROSEQUI 
+R15,Richmond ,VA ,5/30/20,5/30/20,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >=$1000 ,,NOLLE PROSEQUI 
+R15,Richmond ,VA ,5/30/20,5/30/20,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >=$1000 ,,NOLLE PROSEQUI 
+R16,Chesterfield ,VA ,5/30/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+S1,Richmond ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Picketing of Dwelling ,,NOLLE PROSEQUI 
+S2,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S3,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S4,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S5,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S6,Midlothian ,VA ,8/16/20,8/16/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly/Participate ,3/22/21,OPEN 
+S6,Midlothian ,VA ,8/16/20,8/17/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,GUILTY/APPEALED 
+S7,Richmond ,VA ,8/16/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,NOT GUILTY 
+S8,Richmond ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S9,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S10,Midlothian ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S11,Henrico ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,GUILTY/APPEALED 
+S11,Henrico ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Disrupt Tranquility of Home ,,NOLLE PROSEQUI 
+S12,Alberta ,VA ,10/28/20,10/28/20,18.2-154 ,Felony ,4,Maliciously Shoot at Occ Veh ,2/18/21,OPEN 
+S12,Alberta ,VA ,10/28/20,10/28/20,18.2-408 ,Felony ,5,Inciting a Riot ,2/18/21,OPEN 
+S12,Richmond ,VA ,6/28/20,6/28/20,18.2-85 ,Felony ,5,Create/Use Bomb/Explosives ,,DISMISSED 
+S12,Richmond ,VA ,6/28/20,6/28/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,NOT GUILTY 
+S12,Chesapeake ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Picketing of Dwelling ,,NOLLE PROSEQUI 
+S12,Alberta ,VA ,10/28/20,10/28/20,18.2-408 ,Felony ,5,Conspire to Incite Riot ,,CERTIFIED TO GRAND JURY 
+S12,Alberta ,VA ,10/28/20,10/28/20,18.2-154 ,Felony ,4,Malic Shoot/Thrw at Train/Car ,,CERTIFIED TO GRAND JURY 
+S12,Richmond ,VA ,6/28/20,6/28/20,A.46.2-852 ,Misdemeanor ,1,RD-Generally-Misd ,,GUILTY/REDUCED TO INFRACTION 
+S13,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S14,Henrico ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S15,Poquoson ,VA ,5/31/20,5/31/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S16,Richmond ,VA ,5/31/20,,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY/APPEALED 
+S17,Virginia Beach ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S18,Richmond ,VA ,9/24/20,9/24/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,NOLLE PROSEQUI 
+S19,Richmond ,VA ,7/26/20,7/27/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,2/24/21,OPEN 
+S20,Colonial Heights ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S21,Portsmouth ,VA ,5/28/20,5/28/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,NOLLE PROSEQUI 
+S22,Lutherville Timonen ,MD ,6/8/20,6/8/20,18.2-137 ,Felony ,6,Destruct Prop w/ Intent >= $1000 ,,FUGITIVE FILE 
+S22,Lutherville Timonen ,MD ,7/8/20,,18.2-456(5) ,CAPIAS ,,FTC Pretrial ,,FUGITIVE FILE 
+S22,Lutherville Timonen ,MD ,7/27/20,,19.2-128 ,Felony ,,Fel. FTA/Fel Destroy Property ,,FUGITIVE FILE 
+S23,Mechanicsville ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Picketing of Dwelling ,,NOLLE PROSEQUI 
+S24,Richmond ,VA ,6/26/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly; Participate ,,NOLLE PROSEQUI 
+S25,Richmond ,VA ,9/1/20,9/1/20,18.2-460 ,Misdemeanor ,1,Obstruct/Resist w/o Force ,,NOLLE PROSEQUI 
+S25,Richmond ,VA ,9/1/20,9/1/20,18.2-404 ,Misdemeanor ,1,Obstrct Free Passage ,,GUILTY/REDUCED TO INFRACTION 
+S26,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S27,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S28,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+S29,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+S30,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,3/5/21,OPEN 
+S31,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY 
+S32,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S33,Norfolk ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,2/26/21,OPEN 
+S34,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S35,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S36,Fairfax ,VA ,5/30/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+S37,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S38,Henrico ,VA ,6/3/20,,18.2-308 ,Misdemeanor ,,Concealed Weapon: Carry ,6/16/21,OPEN 
+S39,Aylett ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY 
+S40,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+S41,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+S42,Petersburg ,VA ,6/1/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S43,Richmond ,VA ,5/31/20,5/31/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+S44,Richmond ,VA ,7/27/20,7/27/20,18.2-248 ,Felony ,,Poss w/ Int Manuf/etc Sch I/II ,,GUILTY/REDUCED TO MISDEMEANOR 
+S45,Richmond ,VA ,6/5/20,6/8/20,18.2-60.4 ,Misdemeanor ,1,Violation of a Protectiv Order ,,GUILTY/APPEALED 
+T1,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,3/26/21,OPEN 
+T2,Chester ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+T3,Petersburg ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+T4,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,FUGITIVE FILE 
+T5,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,FUGITIVE FILE 
+T6,Richmond ,VA ,7/27/20,,A.46.2-104 ,Infraction ,,No License in Possession ,,GUILTY IN ABSENTIA 
+T6,Richmond ,VA ,7/27/20,,46.2-888 ,Infraction ,,Blocking Traffic ,,GUILTY IN ABSENTIA 
+T7,Hopewell ,VA ,7/26/20,7/26/20,18.2-405 ,Felony ,5,Particip Riot w/ Firearm/Wpn ,5/6/21,OPEN 
+T7,Hopewell ,VA ,7/26/20,7/26/20,18.2-57 ,Felony ,6,Assault on Law Enf Officer ,5/6/21,OPEN 
+T7,Hopewell ,VA ,7/26/20,7/26/20,18.2-57 ,Felony ,6,Assault on Law Enf Officer ,,CERTIFIED TO GRAND JURY 
+T7,Hopewell ,VA ,7/26/20,7/26/20,18.2-405 ,Felony ,5,Particip Riot w/ Dang Weapon ,,CERTIFIED TO GRAND JURY 
+T8,Leesburg ,VA ,5/31/20,5/31/20,18.2-137 ,Misdemeanor ,,Vandalism/Destruc Prop ,,DISMISSED 
+T9,Richmond ,VA ,10/28/20,10/28/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,NOLLE PROSEQUI 
+T10,Richmond ,VA ,6/1/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+T11,Chesterfield ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY IN ABSENTIA 
+T12,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,5/7/21,OPEN 
+T13,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY 
+T14,Richmond ,VA ,5/30/20,,18.2-287.4 ,Misdemeanor ,,Carry Load Firearm > 20 Rounds ,,DISMISSED 
+T15,Prince George ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+T16,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+U1,N Chesterfield ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+V1,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY 
+V2,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+V3,Chester ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+W1,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+W2,Annadale ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+W3,Richmond ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+W4,Richmond ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,NOLLE PROSEQUI 
+W5,Richmond ,VA ,6/23/21,6/23/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,DISMISSED 
+W5,Richmond ,VA ,6/23/20,6/23/20,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,,DISMISSED 
+W5,Richmond ,VA ,6/23/20,6/25/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,DISMISSED 
+W5,Richmond ,VA ,6/23/20,6/25/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,DISMISSED 
+W5,Richmond ,VA ,6/23/20,6/25/20,18.2-57 ,Felony ,6,Asslt: On Law Enf/Doc Person ,,DISMISSED 
+W6,Charlottesville ,VA ,6/1/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,5/13/21,OPEN 
+W7,Richmond ,VA ,6/2/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+W9,Richmond ,VA ,8/13/20,8/22/20,18.2-51 ,Felony ,3,Malicious Wounding ,,DISMISSED 
+W10,Richmond ,VA ,6/22/20,,18.2-406 ,Misdemeanor ,1,Unlawful Assembly: Participate ,8/5/21,OPEN 
+W11,Richmond ,VA ,5/31/20,6/1/20,44.146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,DISMISSED 
+W11,Richmond ,VA ,6/25/20,,18.2-419 ,Misdemeanor ,3,Disrupt Tranquility of Home ,,NOLLE PROSEQUI 
+W12,Prince George ,VA ,5/31/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+W13,Richmond ,VA ,6/3/20,6/4/20,18.2-57 ,Misdemeanor ,,Assault & Battery ,,NOLLE PROSEQUI 
+W14,Richmond ,VA ,6/23/20,,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,FUGITIVE FILE 
+W15,N Prince George ,VA ,5/30/20,,44.146.17 ,Misdemeanor ,,Violate Governors Exec Order ,,DISMISSED 
+W16,Henrico ,VA ,6/25/20,6/25/20,18.2-57.01 ,Misdemeanor ,2,Point Laser at Officer ,,NOLLE PROSEQUI 
+W16,Henrico ,VA ,6/25/20,6/25/20,18.2-250.1 ,Misdemeanor ,,"Possess Marijuana,1st Off ",,NOLLE PROSEQUI 
+W17,Henrico ,VA ,6/21/20,6/21/20,18.2-407 ,Misdemeanor ,3,Failing to Disperse in a Riot ,6/8/21,OPEN 
+W18,Richmond ,VA ,9/24/20,9/24/20,18.2-415 ,Misdemeanor ,1,Disorderly Conduct ,,GUILTY/APPEALED 
+W19,Richmond ,VA ,6/6/20,6/6/20,18.2-57 ,Misdemeanor ,1,Assault & Battery ,,NOLLE PROSEQUI 
+W19,Richmond ,VA ,6/6/20,6/6/20,18.2-137 ,Misdemeanor ,1,Destruct Prop w/ Intent < $1000 ,,NOLLE PROSEQUI 
+W20,Richmond ,VA ,11/1/20,,18.2-57 ,Misdemeanor ,1,Assault & Battery ,2/25/21,OPEN 
+W20,Richmond ,VA ,11/3/20,,18.2-427 ,Misdemeanor ,1,Profan Lang over Public Airway ,2/25/21,OPEN 
+W20,Richmond ,VA ,11/17/20,,19.2-128 ,Misdemeanor ,,FTA/Assault ,2/25/21,OPEN 
+W20,Richmond ,VA ,11/1/20,,46.2-888 ,Infraction ,,Veh Improp Stopped on Rdwy ,3/15/21,OPEN 
+W20,Richmond ,VA ,11/5/20,,A.46.2-852 ,Infraction ,,RD-Generally-Misd ,3/15/21,OPEN 
+W20,Richmond ,VA ,12/11/20,,A.46.2-852 ,Infraction ,1,RD-Generally-Misd ,,GUILTY IN ABSENTIA 
+Y1,Richmond ,VA ,5/31/20,6/1/20,44-146.17 ,Misdemeanor ,1,Violate Governors Exec Order ,,GUILTY 
+Y2,Richmond ,VA ,7/26/20,7/27/20,18.2-119 ,Misdemeanor ,1,Trespass After Forbidden ,,DISMISSED 
